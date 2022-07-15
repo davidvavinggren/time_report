@@ -87,7 +87,7 @@ class TimeReport():
                 string += object.__str__() + "\n"
         self.hours_worked = hours + math.floor(minutes / 60)
         self.minutes_worked = minutes % 60
-        string += "\nSummary hours: {} hours and {} minutes.".format(self.hours_worked, self.minutes_worked) 
+        string += "\nSummary: {} hours and {} minutes.".format(self.hours_worked, self.minutes_worked) 
         return string
 
     def write_to_file(self, month = None):
