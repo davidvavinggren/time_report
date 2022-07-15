@@ -1,5 +1,7 @@
+import email
 from date import *
 from time_report import *
+from  mail import *
 
 def main():
     """
@@ -7,8 +9,8 @@ def main():
     """
     report = TimeReport()    
 
-    list_of_actions = [1,2,3,4,5,6,7]
-    action_string = "\nAvailable actions:\n1: Show actions\n2: Report time\n3: Delete specific object\n4: Delete all objects\n5: Delete report\n6: Write report\n7: Exit time_report"
+    list_of_actions = [1,2,3,4,5,6,7,8]
+    action_string = "\nAvailable actions:\n1: Show actions\n2: Report time\n3: Delete specific object\n4: Delete all objects\n5: Delete report\n6: Write report\n7: Send report\n8: Exit time_report"
     print("\nWelcome to time_report!")
     print(action_string)
     
@@ -55,6 +57,14 @@ def main():
                 except:
                     print("\nInput not valid! Please try again.")
         elif action == 7:
+            action_7_bool = True
+            while action_7_bool:
+                try:
+                    mail(input("\nEnter month of report on format Month: "))
+                    action_7_bool = False
+                except:
+                    print("\nInput not valid! Please try again.")
+        elif action == 8:
             print("\n")
             return 
 

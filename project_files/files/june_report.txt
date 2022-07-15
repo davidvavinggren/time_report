@@ -16,4 +16,4 @@ Date          Hours     Minutes     Comment
 2022-06-29    8         0           Borgeby.
 2022-06-30    8         0           Började 08 men skippade frukost och jobbade över.
 
-Summary hours: 105 hours and 0 minutes.
+Summary: 105 hours and 0 minutes.
