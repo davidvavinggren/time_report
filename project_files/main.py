@@ -1,4 +1,3 @@
-import email
 from date import *
 from time_report import *
 from  mail import *
@@ -27,7 +26,7 @@ def main():
             action_2_bool = True
             while action_2_bool:
                 try:
-                    report.add_date(Date(input("\nEnter date on format YYYY-MM-DD: "), input ("Enter hours worked: "), input ("Enter minutes worked: "), input("Enter comment: ")))
+                    report.add_date(Date(input("\nEnter date on format YYYY-MM-DD: "), input ("Enter hours worked excluding overtime: "), input ("Enter minutes worked excluding overtime: "), input ("Enter overtime hours: "), input ("Enter overtime minutes: "), input ("Weekend? Answer y/n: "), input("Enter comment: ")))
                     action_2_bool = False
                 except:
                     print("\nInput not valid! Please try again.\n")
