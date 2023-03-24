@@ -12,5 +12,18 @@ Date          Hours     Minutes     Comment
 2022-07-13    8         0           
 2022-07-14    0         0           Ledig.
 2022-07-15    0         0           Ledig.
+2022-07-18    8         0           
+2022-07-19    8         0           
+2022-07-20    8         0           
+2022-07-21    8         0           
+2022-07-22    8         0           
+2022-07-25    8         0           
+2022-07-26    8         0           
+2022-07-27    8         0           
+2022-07-28    8         0           
+2022-07-29    9         0           Jobbade över en timme.
+2022-07-30    7         30          LÖRDAG. Jobbade 08-16 med 30 min rast.
 
-Summary: 72 hours and 0 minutes.
+Summary: 
+Weekday: 153 hours and 0 minutes.
+Weekend: 7 hours and 30 minutes. 

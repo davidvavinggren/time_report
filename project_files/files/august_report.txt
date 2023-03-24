@@ -1,0 +1,29 @@
+Time report for August:
+
+Date          Hours     Minutes     Comment
+2022-08-01    8         30          30 minuter rast.
+2022-08-02    12        0           30 minuter rast och jobbade till 19:30.
+2022-08-03    10        30          Jobbade till 18:30.
+2022-08-04    13        0           30 minuter rast och jobbade till 20:30.
+2022-08-05    8         0           
+2022-08-08    13        0           Jobbade till 21.
+2022-08-09    8         0           
+2022-08-10    13        0           Jobbade till 21 med totalt en timmes rast.
+2022-08-11    8         0           
+2022-08-12    13        0           Tog ingen lunch och jobbade till 20:30.
+2022-08-13    5         0           LÖRDAG. Jobbade mellan 13 och 18 utan rast.
+2022-08-15    8         30          Tog ingen lunchrast.
+2022-08-16    8         0           
+2022-08-17    8         0           
+2022-08-18    13        0           Jobbade till 21.
+2022-08-19    0         0           Ledig.
+2022-08-22    8         30          Skippade frukost.
+2022-08-23    8         30          Skippade frukost.
+2022-08-24    8         0           
+
+Summary:
+
+Weekday normal time: 139 hours and 30 minutes                                 
+Weekday after 16:00: 30 hours and 0 minutes                                 
+Weekend normal time: 3 hours and 0 minutes                                 
+Weekend after 16:00: 2 hours and 0 minutes
