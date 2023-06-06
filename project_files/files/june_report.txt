@@ -1,19 +1,11 @@
 Time report for June:
 
 Date          Hours     Minutes     Comment
-2022-06-13    8         0           
-2022-06-14    8         0           
-2022-06-15    8         0           
-2022-06-16    9         0           Jobbade över en timme.
-2022-06-17    8         0           
-2022-06-20    8         0           
-2022-06-21    8         0           
-2022-06-22    8         0           
-2022-06-23    8         0           
-2022-06-24    0         0           Midsommar.
-2022-06-27    8         0           
-2022-06-28    8         0           
-2022-06-29    8         0           Borgeby.
-2022-06-30    8         0           Började 08 men skippade frukost och jobbade över.
+2023-06-05    4         30          Jobbade enbart f�rmiddag p.g.a. visdomstand
 
-Summary: 105 hours and 0 minutes.
+Summary:
+
+Weekday normal time: 4 hours and 30 minutes                                 
+Weekday after 16:00: 0 hours and 0 minutes                                 
+Weekend normal time: 0 hours and 0 minutes                                 
+Weekend after 16:00: 0 hours and 0 minutes

@@ -1,6 +1,9 @@
 import yagmail
 
 def mail(month):
+    '''
+    Function used to email employer with time report for the month.
+    '''
     sender = 'davvabot@gmail.com' # enter sender email
     reciever = 'jacob.ektander@gmail.com' # enter reciever email
     app_password = 'oyqm lxcw dzmt raxk' # enter google app password if gmail is used
